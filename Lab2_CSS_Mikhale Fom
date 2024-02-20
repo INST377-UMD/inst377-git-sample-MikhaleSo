@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> Form Submission! </title>
+        <style>
+            body {
+                background-color: mediumaquamarine;
+            }
+
+            img {
+                width: 50%
+            }
+
+            .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1 style="text-align: center;">Registration Complete, Welcome to SWUG!</h1>
+        <p>Welcome to the SolidWorks User Group! We're thrilled to have you on board!</p>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fastcad.com.au%2Fsolidworks%2F&psig=AOvVaw0gCKTM3JLi9x4gwu1OpCJ_&ust=1707885100771000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD52Pe9p4QDFQAAAAAdAAAAABAQ" 
+                 alt="SOLID WORKS LOGO" class="center">
+
+    </body>
+</html>
